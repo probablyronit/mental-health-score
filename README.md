@@ -1,4 +1,4 @@
-# Mental Health Signal — Student Wellness Analytics (Mansik-Santulan-Score)
+# Mental Health Signal — Student Wellness Analytics
 
 This project is a machine learning-powered web application that predicts a student's **Mental Health Score** based on their digital habits, demographics, and lifestyle metrics. The application uses a trained Machine Learning model to evaluate inputs such as screen time, sleep hours, study patterns, and platform usage to provide a score from 0 to 10.
 
